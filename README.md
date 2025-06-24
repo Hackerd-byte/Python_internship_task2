@@ -16,4 +16,4 @@ Python interpreter, a code editor or IDE installed
 Terminal or IDE to run python code
 __________________________
 ## 🔍Sample outputs
-![screenshot]("first.png")
+![screenshot]('plot.jpg')
