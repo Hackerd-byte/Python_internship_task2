@@ -19,6 +19,6 @@ plt.ylabel("Temperature (°C)")
 plt.title(f"5-Day Forecast Temperature for {cityname}")
 plt.tight_layout()
 plt.grid(True)
-plt.savefig("first.png")
+plt.savefig("plot.jpg")
 plt.show()
 
